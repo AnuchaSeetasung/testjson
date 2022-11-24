@@ -1,0 +1,10 @@
+[
+    {
+        "path": "/Page1",
+        "body":"<div><h1>Page 1</h1></div>"
+    },
+    {
+        "path": "/Page2",
+        "body":"<div><h1>Page 2</h1></div>"
+    }
+]
